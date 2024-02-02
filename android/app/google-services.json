@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390742934912",
+    "project_id": "exam-schedule-206024",
+    "storage_bucket": "exam-schedule-206024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390742934912:android:cbff708b6ab409a4c26d65",
+        "android_client_info": {
+          "package_name": "com.example.exam_schedule"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv6diCWIcdoGxh3WNB4H0JOZMjB84r10A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
